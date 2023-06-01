@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumRepository.deps.json
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumRepository.runtimeconfig.json
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumRepository.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumRepository.pdb
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumDomain.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\bin\Debug\net6.0\SeleniumDomain.pdb
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.AssemblyInfo.cs
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.csproj.CopyComplete
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\refint\SeleniumRepository.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.pdb
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\SeleniumRepository.genruntimeconfig.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumRepository\obj\Debug\net6.0\ref\SeleniumRepository.dll

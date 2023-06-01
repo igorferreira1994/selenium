@@ -1,0 +1,12 @@
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\bin\Debug\net6.0\SeleniumDomain.deps.json
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\bin\Debug\net6.0\SeleniumDomain.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\bin\Debug\net6.0\SeleniumDomain.pdb
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.AssemblyInfo.cs
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\refint\SeleniumDomain.dll
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\SeleniumDomain.pdb
+C:\Users\Igor\source\repos\TestSelenium\SeleniumDomain\obj\Debug\net6.0\ref\SeleniumDomain.dll
